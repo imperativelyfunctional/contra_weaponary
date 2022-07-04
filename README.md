@@ -7,5 +7,5 @@
 視頻地址：https://youtu.be/3bDHlBMM_wg <br>
 頻道地址：https://www.youtube.com/channel/UCI_nzNMP4JEyJiITpJeIxYg
 
-![遊戲截屏](https://github.com/imperativelyfunctional/contra/blob/main/demo.gif)
+![遊戲截屏](https://github.com/imperativelyfunctional/contra_weaponary/blob/main/demo.gif)
 
