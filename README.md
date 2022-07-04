@@ -1,16 +1,11 @@
 # contra
 
-A new Flutter project.
+# 本期是flutter教學系列的第三十期
 
-## Getting Started
+# 教學內容包括：
+- SpriteComponent advanced movement【高級位置移動技巧】
+視頻地址：https://youtu.be/3bDHlBMM_wg <br>
+頻道地址：https://www.youtube.com/channel/UCI_nzNMP4JEyJiITpJeIxYg
 
-This project is a starting point for a Flutter application.
+![遊戲截屏](https://github.com/imperativelyfunctional/contra/blob/main/demo.gif)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
